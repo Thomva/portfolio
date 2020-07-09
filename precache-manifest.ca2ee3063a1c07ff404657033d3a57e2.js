@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a35bb5d75d3171bd283ed7d7f0349362",
+    "revision": "a1085f66ba9222c54e32b44ae3595022",
     "url": "https://thomva.github.io/portfolio/index.html"
   },
   {
-    "revision": "d715eff9a92fd28a4e36",
+    "revision": "2001e88b44be7585f5ad",
     "url": "https://thomva.github.io/portfolio/static/css/main.ae7982e4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://thomva.github.io/portfolio/static/js/2.91a8dfd9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d715eff9a92fd28a4e36",
-    "url": "https://thomva.github.io/portfolio/static/js/main.a22cd581.chunk.js"
+    "revision": "2001e88b44be7585f5ad",
+    "url": "https://thomva.github.io/portfolio/static/js/main.6a714c4c.chunk.js"
   },
   {
     "revision": "ccb23808272c5687ce16",
