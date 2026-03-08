@@ -1,0 +1,1 @@
+import{_ as t,a,j as e,y as n,e as s}from"./M2zqApRu.js";const c={},r={class:"index-page"};function l(d,o){return s(),a("div",r,[...o[0]||(o[0]=[e("h1",null,[n("Hi, I am "),e("em",{color:"accent"},"Thomas")],-1),e("p",null,"A Front-end/Full Stack Developer",-1)])])}const i=t(c,[["render",l]]);export{i as default};

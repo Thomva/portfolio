@@ -1,1 +1,0 @@
-import{_ as t,c as a,a as e,d as n,o as c}from"./BNk9cver.js";const s={},r={class:"index-page"};function l(d,o){return c(),a("div",r,[...o[0]||(o[0]=[e("h1",null,[n("Hi, I am "),e("em",{color:"accent"},"Thomas")],-1),e("p",null,"A Front-end/Full Stack Developer",-1)])])}const i=t(s,[["render",l]]);export{i as default};
